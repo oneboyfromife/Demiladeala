@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi  I'm Oluwademilade Ala
+Frontend Developer with experience in JavaScript, Typescript, and Responsive Web Design.
 
-<!--
-**Demiladeala/Demiladeala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Chakra UI Svelte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Typescript, Javascript and Next js
+
+👯 I’m open to work 👨🏿‍💻
+
+👨‍💻 All of my projects are available at https://ala-one.vercel.app/
+
+💬 Ask me about React and all things JavaScript
+
+📫 How to reach me demiladeala@gmail.com.
+
+📄 Know about my experiences 
+
+⚡ I love playing the guitar, watching animes and korean movies 👨🏿‍😊
+
+Demiladeala
+
+Languages and Tools
+html5 css3 figma firebase gatsby git graphql vercel  javascript  nodejs python  react reactnative redux  tailwind  typescript webpack
