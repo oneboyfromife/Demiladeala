@@ -2,7 +2,7 @@
 Frontend Developer with experience in JavaScript, Typescript, and Responsive Web Design.
 
 
-🔭 I’m currently working on Chakra UI Svelte
+🔭 I’m currently working on 
 
 🌱 I’m currently learning Typescript, Javascript and Next js
 
