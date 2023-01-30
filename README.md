@@ -1,10 +1,10 @@
-### Hi  I'm Oluwademilade Ala
+### 👋 Hi  I'm Oluwademilade Ala
 Frontend Developer with experience in JavaScript, Typescript, and Responsive Web Design.
 
 
-🔭 I’m currently working on 
+🔭  I’m looking to collaborate on any frontend or open source projects in general
 
-🌱 I’m currently learning Typescript, Javascript and Next js
+🌱 I am interested in Typescript, Javascript and Next js
 
 👯 I’m open to work 👨🏿‍💻
 
@@ -16,9 +16,8 @@ Frontend Developer with experience in JavaScript, Typescript, and Responsive Web
 
 📄 Know about my experiences 
 
-⚡ I love playing the guitar, watching animes and korean movies 👨🏿‍😊
+⚡ I love playing the guitar, playing basketball, watching animes and korean movies 👨🏿‍😊
 
-Demiladeala
+Languages and Tools:
 
-Languages and Tools
 html5 css3 figma firebase gatsby git graphql vercel  javascript  nodejs python  react reactnative redux  tailwind  typescript webpack
