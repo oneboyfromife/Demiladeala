@@ -1,5 +1,6 @@
-### 👋 Hi  I'm Oluwademilade Ala
-Frontend Developer with experience in JavaScript, Typescript, and Responsive Web Design.
+#👋 Hi  I'm Oluwademilade Ala 
+
+A Frontend Developer
 
 🌱 I am interested in Typescript, Javascript and Next js
 
