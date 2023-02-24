@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/alademjosh" target="blank"><img src="https://img.shields.io/twitter/follow/alademjosh?logo=twitter&style=for-the-badge" alt="alademjosh" /></a> </p> 
 
-- 🔭 I’m currently working on **BookXity** 
+- 🔭 I’m currently working on **Laspag** 
 
-- 🌱 I’m currently learning **React native** 
+- 🌱 I’m currently learning **React and React native** 
 
 - 💬 Ask me about **React, Javascript and Typescript** 
 
